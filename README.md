@@ -4,8 +4,20 @@
 Here are some ideas to get you started:
 
 
+
+
+
+
 <h1 align="center">Hi 👋, I'm mawlid mohamud/malit</h1>
-<h3 align="center">A passionate frontend developer from Somalia</h3>
+<h3 align="center"> my  passionate  is coding and now am a full-Stack developer from Somalia </h3>
+
+
+<a href="https://app.daily.dev/malit"><img src="https://api.daily.dev/devcards/8788085055124960b70cbe4cbd5abe15.png?r=8bk" width="400" alt="malit moha's Dev Card"/></a>
+
+
+
+
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mawlid1431&label=Profile%20views&color=0e75b6&style=flat" alt="mawlid1431" /> </p>
@@ -16,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Coffee house](https://github.com/mawlid1431/Mocha-back-end)
 
-- 🌱 I’m currently learning **ALX SE PROGARMA and MODERN FULL STACK**
+- 🌱 I’m currently learning **ALX SE PROGARM and MODERN FULL STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mawlid1431/portfolio.git](https://github.com/mawlid1431/portfolio.git)
 
@@ -25,6 +37,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **EJS ,express, NodeJS, MySQL and NPM**
 
 - 📫 How to reach me **malitmastery@gmail.com**
+
+
+
+
 
 - ⚡ Fun fact **Hard worker, timekeeper, and responsible when am doing my job.**
 
