@@ -11,13 +11,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm mawlid mohamud/malit</h1>
 <h3 align="center"> my  passionate  is coding and now am a full-Stack developer from Somalia </h3>
 
-
-<a href="https://app.daily.dev/malit"><img src="https://api.daily.dev/devcards/8788085055124960b70cbe4cbd5abe15.png?r=8bk" width="400" alt="malit moha's Dev Card"/></a>
-
-
-
-
-
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mawlid1431&label=Profile%20views&color=0e75b6&style=flat" alt="mawlid1431" /> </p>
