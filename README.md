@@ -1,7 +1,7 @@
 <!-- Intro with typing animation -->
 <h1 align="center">Hi 👋, I'm Mawlid Mohamud (Malit)</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=600&lines=Full-Stack+Developer+%7C+AI+Innovator;Passionate+about+Coding+%26+Problem+Solving;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Full-Stack+Developer+%7C+AI+Innovator;Passionate+about+Coding+%26+Problem+Solving;Hackathon+Participant+%7C+Global+Learner;Always+Learning+%7C+Always+Building;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </h3>
 
 <!-- Profile GIF -->
@@ -22,7 +22,7 @@
 - 🎯 Participated in **5+ global hackathons**, including [Great AI Hackathon](https://greataihackathon.com/) – developed an **AI-powered solution**.  
 - 👨‍💻 Explore my work here: [Portfolio Repo](https://github.com/mawlid1431/portfolio.git).  
 - 💬 Ask me about **Node.js, Express, React, Next.js, MySQL, Python, Full-Stack Development**.  
-- 📫 Reach me at: **malitmastery@gmail.com**  
+- 📫 Reach me at: **malitmohamud@gmail.com**  
 - ⚡ Fun fact: **Hard worker, detail-oriented, and timekeeper** when coding.  
 
 ---
