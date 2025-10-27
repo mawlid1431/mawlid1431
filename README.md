@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mawlid1431&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,python,git,figma,heroku,photoshop,illustrator,mongodb,postgres,supabase&perline=7" /> </p>
 ---
 
 ### ✨ Fun Animated Quote  
