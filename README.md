@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me  
-- 💻 **Full-Stack Developer** from **Somalia**, passionate about solving problems with code.  
+- 💻 **Full-Stack Developer** from **Somaliland**, passionate about solving problems with code.  
 - 🌱 Currently learning **Python, Next.js**, and part of the **ALX SE Program**.  
 - 🔭 Building [**E-Learning Platform**](https://deh-frontend-dckr.vercel.app/) & [**Admin Dashboard**](https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/).  
 - 🎯 Participated in **5+ global hackathons**, including [Great AI Hackathon](https://greataihackathon.com/) – developed an **AI-powered solution**.  
