@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Python, Next.js**, and part of the **ALX SE Program**.  
 - 🔭 Building [**E-Learning Platform**](https://deh-frontend-dckr.vercel.app/) & [**Admin Dashboard**](https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/).  
 - 🎯 Participated in **5+ global hackathons**, including [Great AI Hackathon](https://greataihackathon.com/) – developed an **AI-powered solution**.  
-- 👨‍💻 Explore my work here: [Portfolio Repo](https://github.com/mawlid1431/portfolio.git).  
+- 👨‍💻 Explore my work here: [my Portfolio](https://devmowlid.vercel.app/).  
 - 💬 Ask me about **Node.js, Express, React, Next.js, MySQL, Python, Full-Stack Development**.  
 - 📫 Reach me at: **malitmohamud@gmail.com**  
 - ⚡ Fun fact: **Hard worker, detail-oriented, and timekeeper** when coding.  
