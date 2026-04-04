@@ -30,7 +30,7 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/malitfx1"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/mawliid-mohamud-8b7b6a189/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/mowlid-mohamoud-haibe-8b7b6a189/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://fb.com/maamo.ugaaso"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://instagram.com/malitfx"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://www.youtube.com/c/@malitfx321"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
