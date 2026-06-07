@@ -54,14 +54,24 @@
 
 ### 🔐 Backend as a Service (BaaS) & Authentication  
 <p align="center">
-  <strong>Convex</strong> (BaaS & Application Server) • <strong>Clerk</strong> (Authentication)
+  <a href="https://www.convex.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/convex-1.svg" height="50" alt="Convex"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://clerk.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/clerk-2.svg" height="50" alt="Clerk"/></a>
 </p>
 
 ---
 
 ### 💳 Payment Integration Solutions  
 <p align="center">
-  <strong>Stripe</strong> • <strong>PayPal</strong> • <strong>Billplz</strong> • <strong>iPay88</strong> • <strong>ToyyibPay</strong>
+  <a href="https://stripe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/stripe-2.svg" height="50" alt="Stripe"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.paypal.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg" height="50" alt="PayPal"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.billplz.com/" target="_blank"><img src="https://www.billplz.com/assets/logo/billplz-logo.svg" height="50" alt="Billplz"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.ipay88.com/" target="_blank"><img src="https://www.ipay88.com/images/logo.png" height="50" alt="iPay88"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://toyyibpay.com/" target="_blank"><img src="https://toyyibpay.com/images/logo.png" height="50" alt="ToyyibPay"/></a>
 </p>
 
 ---
