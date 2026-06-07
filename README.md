@@ -21,7 +21,6 @@
 - 🔭 Building [**E-Learning Platform**](https://deh-frontend-dckr.vercel.app/) & [**Admin Dashboard**](https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/).  
 - 🎯 Participated in **5+ global hackathons**, including [Great AI Hackathon](https://greataihackathon.com/) – developed an **AI-powered solution**.  
 - 👨‍💻 Explore my work here: [my Portfolio](https://devmowlid.vercel.app/).  
-- 💬 Ask me about **Node.js, Express, React, Next.js, MySQL, Python, Convex, Clerk, Stripe, Full-Stack Development**.  
 - 📫 Reach me at: **malitmohamud@gmail.com**  
 - ⚡ Fun fact: **Hard worker, detail-oriented, and timekeeper** when coding.  
 
@@ -38,16 +37,34 @@
 
 ---
 
-### 🛠️ Frontend Technologies  
+## 💼 Tech Stack & Experiences
+
+### 🎨 Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,photoshop,illustrator&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&perline=7" />
+</p>
+<p align="center">
+  <strong>React</strong> • <strong>Next.js</strong> • <strong>Vite</strong> • <strong>TypeScript</strong> • <strong>JavaScript</strong>
 </p>
 
 ---
 
-### 🔧 Backend & Server Technologies  
+### ⚙️ Backend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,python,heroku&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=7" />
+</p>
+<p align="center">
+  <strong>Node.js</strong> • <strong>Express.js</strong> • <strong>Python</strong> • <strong>Django</strong>
+</p>
+
+---
+
+### 🗄️ Databases & BaaS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=7" />
+</p>
+<p align="center">
+  <strong>MySQL</strong> • <strong>MongoDB</strong> • <strong>PostgreSQL</strong> • <strong>Supabase</strong> • <strong>Convex</strong>
 </p>
 
 ---
@@ -56,6 +73,10 @@
 <p align="center">
   <a href="https://www.convex.dev/" target="_blank">
     <img src="https://www.convex.dev/favicon.ico" height="50" alt="Convex" style="border-radius: 50%;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://supabase.com/favicon.ico" height="50" alt="Supabase" style="border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://clerk.com/" target="_blank">
@@ -92,9 +113,22 @@
 
 ---
 
-### 🛠️ Version Control & DevOps  
+### 🔧 Version Control & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github&perline=7" />
+</p>
+<p align="center">
+  <strong>Git</strong> • <strong>GitHub</strong>
+</p>
+
+---
+
+### 🧪 Testing & Other Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=7" />
+</p>
+<p align="center">
+  <strong>AWS</strong> • <strong>Claude AI</strong> • <strong>GitHub Copilot</strong> • <strong>OpenAI</strong> • <strong>Figma</strong> • <strong>Photoshop</strong> • <strong>Illustrator</strong>
 </p>
 
 ---
