@@ -1,7 +1,7 @@
 <!-- Intro with typing animation -->
 <h1 align="center">Hi 👋, I'm Mawlid Mohamud (Malit)</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Full-Stack+Developer+%7C+AI+Innovator;Passionate+about+Coding+%26+Problem+Solving;Hackathon+Participant+%7C+Global+Learner;Always+Learning+%7C+Always+Building;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Full-Stack+Developer+%7C+AI+Innovator;Passionate+about+Coding+%26+Problem+Solving;Backend+%26+Frontend+Specialist" alt="Typing SVG" />
 </h3>
 
 <!-- Profile GIF -->
@@ -21,7 +21,7 @@
 - 🔭 Building [**E-Learning Platform**](https://deh-frontend-dckr.vercel.app/) & [**Admin Dashboard**](https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/).  
 - 🎯 Participated in **5+ global hackathons**, including [Great AI Hackathon](https://greataihackathon.com/) – developed an **AI-powered solution**.  
 - 👨‍💻 Explore my work here: [my Portfolio](https://devmowlid.vercel.app/).  
-- 💬 Ask me about **Node.js, Express, React, Next.js, MySQL, Python, Full-Stack Development**.  
+- 💬 Ask me about **Node.js, Express, React, Next.js, MySQL, Python, Convex, Clerk, Stripe, Full-Stack Development**.  
 - 📫 Reach me at: **malitmohamud@gmail.com**  
 - ⚡ Fun fact: **Hard worker, detail-oriented, and timekeeper** when coding.  
 
@@ -38,9 +38,37 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Frontend Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,python,git,figma,heroku,photoshop,illustrator&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,photoshop,illustrator&perline=7" />
+</p>
+
+---
+
+### 🔧 Backend & Server Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,python,heroku&perline=7" />
+</p>
+
+---
+
+### 🔐 Backend as a Service (BaaS) & Authentication  
+<p align="center">
+  <strong>Convex</strong> (BaaS & Application Server) • <strong>Clerk</strong> (Authentication)
+</p>
+
+---
+
+### 💳 Payment Integration Solutions  
+<p align="center">
+  <strong>Stripe</strong> • <strong>PayPal</strong> • <strong>Billplz</strong> • <strong>iPay88</strong> • <strong>ToyyibPay</strong>
+</p>
+
+---
+
+### 🛠️ Version Control & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&perline=7" />
 </p>
 
 ---
@@ -63,7 +91,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mawlid1431&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mysql,python,git,figma,heroku,photoshop,illustrator,mongodb,postgres,supabase&perline=7" /> </p>
+
 ---
 
 ### ✨ Fun Animated Quote  
