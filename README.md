@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mawlid Mohamud (Malitos)</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Software+Engineer+%7C+AI+Innovator;Architecting+Scalable+Systems;30%2B+Live+Projects+Deployed;Bridging+AI+and+Modern+Web+Development;Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Software+Engineer+%7C+AI+Innovator;Architecting+Scalable+Systems;30%2B+Live+Projects+in+Production" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -14,13 +14,14 @@
 ---
 
 ### 🚀 Professional Summary 
-I am a **Software Engineer and AI Innovator** with a proven track record of bridging the gap between modern design, system architecture, and artificial intelligence. I specialize in **end-to-end development**—taking ambitious ideas from the whiteboard to fully deployed, scalable solutions. 
+I am a **Software Engineer and AI Innovator** with a proven track record of bridging the gap between modern design, system architecture, and artificial intelligence. I specialize in **end-to-end development** across web, mobile, and intelligent systems.
 
 With **over 30 live projects currently in production**, I bring a product-first mindset to engineering. I build software that not only functions flawlessly but delivers real business value.
 
 **What I Bring to the Table:**
 - 🌍 **Global Perspective:** Originally from Somaliland, proudly graduated from the rigorous **ALX Software Engineering Program**, and currently advancing my **Bachelor of Computer Science in Malaysia**.
 - 💡 **Full-Lifecycle Execution:** Expertise in managing the entire software lifecycle, from database design and API integration to UI/UX execution and cloud deployment.
+- 📱 **Mobile Development:** Building polished **iOS mobile apps** with **React Native** and **Expo** for fast, scalable cross-platform experiences.
 - 🤖 **AI Integration:** Currently engineering highly scalable AI-driven applications, including **CallBack AI** (an autonomous career agent) and **Pure CRM** (intelligent job hunting).
 - 🏆 **High-Pressure Problem Solving:** Veteran of **5+ global hackathons**, including the *Great AI Hackathon*, where I rapidly prototype and ship AI solutions under strict deadlines.
 - ⏱️ **Professional Excellence:** Known by teams and clients for being detail-oriented, a strict timekeeper, and a relentless continuous learner.
@@ -48,6 +49,16 @@ With **over 30 live projects currently in production**, I bring a product-first 
 </p>
 <p align="center">
   <strong>TypeScript</strong> • <strong>JavaScript</strong> • <strong>React</strong> • <strong>Next.js</strong> • <strong>Vite</strong>
+</p>
+
+---
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,expo&perline=7" alt="Mobile Stack"/>
+</p>
+<p align="center">
+  <strong>React Native</strong> • <strong>Expo</strong> • <strong>iOS</strong>
 </p>
 
 ---
