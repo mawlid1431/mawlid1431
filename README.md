@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mawlid Mohamud (Malitos)</h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Software+Engineer+%7C+AI+Innovator;Architecting+Scalable+Systems;30%2B+Live+Projects+in+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&width=650&lines=Software+Engineer+%7C+AI+Innovator;Building+Scalable+Software+Systems;30%2B+Projects+Delivered+to+Production" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -13,161 +14,214 @@
 
 ---
 
-### 🚀 Professional Summary 
-I am a **Software Engineer and AI Innovator** with a proven track record of bridging the gap between modern design, system architecture, and artificial intelligence. I specialize in **end-to-end development** across web, mobile, and intelligent systems.
+## 🚀 Professional Summary
 
-With **over 30 live projects currently in production**, I bring a product-first mindset to engineering. I build software that not only functions flawlessly but delivers real business value.
+I am a **Software Engineer and AI Innovator** passionate about designing, developing, and deploying scalable digital products. I specialize in building modern applications across **web, mobile, backend systems, cloud infrastructure, and artificial intelligence**.
 
-**What I Bring to the Table:**
-- 🌍 **Global Perspective:** Originally from Somaliland, proudly graduated from the rigorous **ALX Software Engineering Program**, and currently advancing my **Bachelor of Computer Science in Malaysia**.
-- 💡 **Full-Lifecycle Execution:** Expertise in managing the entire software lifecycle, from database design and API integration to UI/UX execution and cloud deployment.
-- 📱 **Mobile Development:** Building polished **iOS mobile apps** with **React Native** and **Expo** for fast, scalable cross-platform experiences.
-- 🤖 **AI Integration:** Currently engineering highly scalable AI-driven applications, including **CallBack AI** (an autonomous career agent) and **Pure CRM** (intelligent job hunting).
-- 🏆 **High-Pressure Problem Solving:** Veteran of **5+ global hackathons**, including the *Great AI Hackathon*, where I rapidly prototype and ship AI solutions under strict deadlines.
-- ⏱️ **Professional Excellence:** Known by teams and clients for being detail-oriented, a strict timekeeper, and a relentless continuous learner.
+With **30+ production-level projects delivered**, I focus on creating software that combines strong engineering principles, excellent user experience, and measurable business impact.
 
-📫 **Let's collaborate:** [malitmohamud@gmail.com](mailto:malitmohamud@gmail.com) | 🌐 **Explore my portfolio:** [devmowlid.vercel.app](https://devmowlid.vercel.app/)
+### What I Bring:
 
----
+* 🌍 **Global Engineering Perspective:** Originally from Somaliland, graduate of the **ALX Software Engineering Program**, and currently pursuing a **Bachelor of Computer Science in Malaysia**.
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mowlid-mohamoud-haibe-8b7b6a189/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/malitfx1"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
-  <a href="https://instagram.com/malitfx"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-  <a href="https://fb.com/maamo.ugaaso"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/></a>
-  <a href="https://www.youtube.com/c/@malitfx321"><img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/></a>
-</p>
+* 💻 **Full-Stack Development:** Experienced in designing complete applications from database architecture and backend APIs to frontend interfaces and cloud deployment.
+
+* 📱 **Mobile Application Development:** Building modern cross-platform mobile applications using **React Native and Expo** with scalable architecture and smooth user experiences.
+
+* 🤖 **AI Engineering:** Developing AI-powered products including **CallBack AI**, an intelligent career assistant, and **Pure CRM**, an AI-driven recruitment and workflow platform.
+
+* 🏆 **Hackathon Experience:** Participated in multiple global hackathons, including the **Great AI Hackathon**, rapidly building innovative AI solutions under challenging deadlines.
+
+* ⚡ **Engineering Mindset:** Detail-oriented developer focused on clean code, scalable architecture, continuous learning, and delivering high-quality products.
+
+📫 **Let's collaborate:** [malitmohamud@gmail.com](mailto:malitmohamud@gmail.com)
+🌐 **Portfolio:** devmowlid.vercel.app
 
 ---
 
-## 💼 Technical Arsenal
+## 🌐 Connect With Me
 
-### 🎨 Frontend Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css&perline=7" alt="Frontend Stack"/>
-</p>
-<p align="center">
-  <strong>TypeScript</strong> • <strong>JavaScript</strong> • <strong>React</strong> • <strong>Next.js</strong> • <strong>Vite</strong>
+  <a href="https://www.linkedin.com/in/mowlid-mohamoud-haibe-8b7b6a189/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/malitfx1"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://instagram.com/malitfx"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://fb.com/maamo.ugaaso"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://www.youtube.com/c/@malitfx321"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
 </p>
 
 ---
 
-### 📱 Mobile Development
+# 💼 Technical Arsenal
+
+## 🎨 Frontend Engineering
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo&perline=7" alt="Mobile Stack"/>
-</p>
-<p align="center">
-  <strong>React Native</strong> • <strong>Expo</strong> • <strong>iOS</strong>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css&perline=7"/>
 </p>
 
----
-
-### ⚙️ Backend & API Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&perline=7" alt="Backend Stack"/>
-</p>
-<p align="center">
-  <strong>Python</strong> • <strong>Django</strong> • <strong>Node.js</strong> • <strong>Express.js</strong>
-</p>
-
----
-
-### 🗄️ Database Architecture & BaaS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=7" alt="Databases"/>
-</p>
-<p align="center">
-  <strong>PostgreSQL</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong> • <strong>Supabase</strong>
+<strong>TypeScript</strong> •
+<strong>JavaScript</strong> •
+<strong>React</strong> •
+<strong>Next.js</strong> •
+<strong>Vite</strong> •
+<strong>HTML5</strong> •
+<strong>CSS3</strong>
 </p>
 
 ---
 
-### 🔐 Auth & Modern Infrastructure
+## 📱 Mobile Development
+
 <p align="center">
-  <a href="https://www.convex.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/convex/FF6C37" height="45" alt="Convex" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="45" alt="Supabase" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://clerk.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/clerk/6C47FF" height="45" alt="Clerk" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,expo&perline=7"/>
+</p>
+
+<p align="center">
+<strong>React Native</strong> •
+<strong>Expo</strong> •
+<strong>iOS Development</strong> •
+<strong>Cross Platform Applications</strong>
 </p>
 
 ---
 
-### 💳 Payment Gateways
+## ⚙️ Backend & API Development
+
 <p align="center">
-  <a href="https://stripe.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/stripe/008CDD" height="45" alt="Stripe" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.paypal.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/paypal/00457C" height="45" alt="PayPal" />
-  </a>
-</p>
-<p align="center">
-  <strong>Stripe</strong> • <strong>PayPal</strong> • <strong>Billplz</strong> • <strong>iPay88</strong> • <strong>ToyyibPay</strong>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,nestjs&perline=7"/>
 </p>
 
----
-
-### ☁️ Cloud, AI & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github&perline=7" alt="Cloud and Git"/>
-</p>
-<p align="center">
-  <strong>AWS</strong> • <strong>Git & GitHub</strong> • <strong>OpenAI</strong> • <strong>Claude AI</strong> • <strong>GitHub Copilot</strong>
+<strong>Python</strong> •
+<strong>Django</strong> •
+<strong>Node.js</strong> •
+<strong>Express.js</strong> •
+<strong>NestJS</strong>
 </p>
 
 ---
 
-### 🖌️ UI/UX Design
+## 🗄️ Database Architecture & BaaS
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd&perline=7" alt="Design Tools"/>
-</p>
-<p align="center">
-  <strong>Figma</strong> • <strong>Adobe Suite</strong> • <strong>Google Stitch</strong>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=7"/>
 </p>
 
----
-
-### 📋 Agile & Project Management
 <p align="center">
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="40" alt="ClickUp" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="Notion" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/asana/273347" height="40" alt="Asana" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="Trello" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="Slack" />
+<strong>PostgreSQL</strong> •
+<strong>MySQL</strong> •
+<strong>MongoDB</strong> •
+<strong>Supabase</strong>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🔐 Authentication & Modern Infrastructure
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mawlid1431&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mawlid1431&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mawlid1431&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<a href="https://www.convex.dev/">
+<img src="https://cdn.simpleicons.org/convex/FF6C37" height="45"/>
+</a>
+
+    
+
+<a href="https://supabase.com/">
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="45"/>
+</a>
+
+    
+
+<a href="https://clerk.com/">
+<img src="https://cdn.simpleicons.org/clerk/6C47FF" height="45"/>
+</a>
 </p>
 
 ---
 
-### ✨ Daily Inspiration  
+## 💳 Payment Integrations
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+<img src="https://cdn.simpleicons.org/stripe/008CDD" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/paypal/00457C" height="45"/>
+</p>
+
+<p align="center">
+<strong>Stripe</strong> •
+<strong>PayPal</strong> •
+<strong>Billplz</strong> •
+<strong>iPay88</strong> •
+<strong>ToyyibPay</strong>
+</p>
+
+---
+
+## ☁️ Cloud, AI & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker&perline=7"/>
+</p>
+
+<p align="center">
+<strong>AWS</strong> •
+<strong>Docker</strong> •
+<strong>Git</strong> •
+<strong>GitHub</strong> •
+<strong>OpenAI</strong> •
+<strong>Claude AI</strong> •
+<strong>GitHub Copilot</strong>
+</p>
+
+---
+
+## 🖌️ UI/UX Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd&perline=7"/>
+</p>
+
+<p align="center">
+<strong>Figma</strong> •
+<strong>Adobe Photoshop</strong> •
+<strong>Adobe Illustrator</strong> •
+<strong>Adobe XD</strong>
+</p>
+
+---
+
+## 📋 Agile & Project Management
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/clickup/7B68EE" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/notion/000000" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/slack/4A154B" height="40"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mawlid1431&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawlid1431&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mawlid1431&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# ✨ Daily Inspiration
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
