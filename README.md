@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mawlid Mohamud (Malitos)</h1>
 
 <p align="center">
-  <a href="https://malitos.tech"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+%7C+AI+Engineer;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+AI;30%2B+Projects+Delivered+to+Production" alt="Typing SVG" /></a>
+  <a href="https://malitos.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+%7C+AI+Engineer;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+AI;30%2B+Projects+Delivered+to+Production" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mowlid-mohamoud-haibe-8b7b6a189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-<a href="https://x.com/malitfx1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/malitfx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://instagram.com/malitfx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://fb.com/maamo.ugaaso"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.youtube.com/@malitfx321"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -259,7 +259,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 </p>
 
 <p align="center">
-  <a href="https://github.com/mawlid1431"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mawlid1431&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
+  <a href="https://github.com/mawlid1431"><img src="https://streak-stats.demolab.com/?user=mawlid1431&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
 </p>
 
 ---
