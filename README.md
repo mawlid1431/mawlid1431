@@ -88,8 +88,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="react"/></a>
 <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="nextjs"/></a>
 <a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite&theme=dark" height="40" alt="vite"/></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="tailwind"/></a>
-<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark" height="40" alt="redux"/></a><br/>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="tailwind"/></a><br/>
 <a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/></a>
 <a href="https://motion.dev"><img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a>
 </td>
@@ -124,8 +123,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 <a href="https://nestjs.com"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" alt="nestjs"/></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="python"/></a>
 <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django&theme=dark" height="40" alt="django"/></a>
-<a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="40" alt="prisma"/></a>
-<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="40" alt="graphql"/></a><br/>
+<a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="40" alt="prisma"/></a><br/>
 <a href="https://restfulapi.net"><img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge" alt="REST APIs"/></a>
 </td>
 </tr>
@@ -183,8 +181,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 <td><b>🧪 Testing</b></td>
 <td>
 <a href="https://vitest.dev"><img src="https://skillicons.dev/icons?i=vitest&theme=dark" height="40" alt="vitest"/></a>
-<a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40" alt="jest"/></a>
-<a href="https://www.cypress.io"><img src="https://skillicons.dev/icons?i=cypress&theme=dark" height="40" alt="cypress"/></a>
+<a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright"/></a>
 <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="postman"/></a>
 
 </td>
@@ -220,18 +217,16 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 <a href="https://jwt.io"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/></a>
 <a href="https://oauth.net/2/"><img src="https://img.shields.io/badge/OAuth%202.0-3C873A?style=for-the-badge" alt="OAuth 2.0"/></a>
 <a href="https://owasp.org/www-project-top-ten/"><img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10"/></a>
+<a href="https://www.svix.com"><img src="https://img.shields.io/badge/Svix%20Webhooks-111111?style=for-the-badge" alt="Svix Webhooks"/></a>
 <a href="https://zod.dev"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/></a>
-<a href="https://docs.github.com/code-security/dependabot"><img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot"/></a>
-<a href="https://www.cloudflare.com/application-services/products/waf/"><img src="https://img.shields.io/badge/Cloudflare%20WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare WAF"/></a>
-<a href="https://letsencrypt.org"><img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Let's Encrypt"/></a>
 </p>
 
 - 🛡️ **App protection:** bot detection, rate limiting, email validation and attack shielding with **Arcjet**
 - 🔑 **Auth:** Clerk, JWT and OAuth 2.0 with role-based access control and organization-scoped data
 - 🏢 **Multi-tenant isolation:** every query and mutation verifies the record belongs to the caller's organization
 - ✅ **Input validation:** server-side checks with Zod; never trusting client-sent sizes, IDs or roles
-- 🔏 **Webhooks and secrets:** signature verification (Svix), secrets kept in environment variables, never in code
-- 📦 **Supply chain:** Dependabot alerts and dependency audits, following the **OWASP Top 10**
+- 🔏 **Webhooks and secrets:** Svix signature verification, secrets kept in environment variables, never in code
+- 📋 **Standards:** building against the **OWASP Top 10**
 
 ---
 
@@ -240,14 +235,10 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 <p align="center">
 <a href="https://posthog.com"><img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog"/></a>
 <a href="https://analytics.google.com"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/></a>
-<a href="https://vercel.com/analytics"><img src="https://img.shields.io/badge/Vercel%20Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Analytics"/></a>
-<a href="https://sentry.io"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/></a>
-<a href="https://upstash.com"><img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=000000" alt="Upstash"/></a>
 </p>
 
 - 📊 **Product analytics:** event tracking, funnels, session replay and feature flags with **PostHog**
-- 🚨 **Error monitoring:** Sentry for errors and performance
-- ⚡ **Web analytics:** Vercel Analytics and Google Analytics for traffic and Core Web Vitals
+- 🌐 **Web analytics:** Google Analytics for traffic and conversions
 
 ---
 
