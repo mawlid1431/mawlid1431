@@ -11,7 +11,7 @@
 <a href="https://fb.com/maamo.ugaaso"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.youtube.com/c/@malitfx321"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="mailto:malitmohamud@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://devmowlid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://malitos.tech"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 - 🔐 **Security-minded:** multi-tenant isolation, server-side validation, bot protection and rate limiting
 - 🏆 **Hackathons:** including the **Great AI Hackathon**
 
-📫 **Let's work together:** [malitmohamud@gmail.com](mailto:malitmohamud@gmail.com) · 🌐 [devmowlid.vercel.app](https://devmowlid.vercel.app)
+📫 **Let's work together:** [malitmohamud@gmail.com](mailto:malitmohamud@gmail.com) · 🌐 [malitos.tech](https://malitos.tech)
 
 <br clear="right"/>
 
