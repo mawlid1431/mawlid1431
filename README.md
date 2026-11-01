@@ -245,11 +245,6 @@ I'm a **Full-Stack Software Engineer and AI Engineer** who designs, builds and s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mawlid1431?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mawlid1431&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats"/></a>
-  <a href="https://github.com/mawlid1431?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mawlid1431&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/mawlid1431"><img src="https://streak-stats.demolab.com/?user=mawlid1431&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
 </p>
 
